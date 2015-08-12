@@ -1,17 +1,17 @@
 {
-  "name": "is-sketch",
+  "name": "is-sqlite",
   "version": "1.0.0",
-  "description": "Check if a Buffer/Uint8Array is a Sketch file",
+  "description": "Check if a Buffer/Uint8Array is a SQLite file",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1000ch/is-sketch.git"
+    "url": "git+https://github.com/1000ch/is-sqlite.git"
   },
   "keywords": [
-    "sketch"
+    "sqlite"
   ],
   "files": [
     "index.js"
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/1000ch/is-sketch/issues"
+    "url": "https://github.com/1000ch/is-sqlite/issues"
   },
-  "homepage": "https://github.com/1000ch/is-sketch#readme",
+  "homepage": "https://github.com/1000ch/is-sqlite#readme",
   "devDependencies": {
     "mocha": "^2.2.5",
     "power-assert": "^0.11.0",
