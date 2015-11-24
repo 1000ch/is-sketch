@@ -4,7 +4,7 @@
   "description": "Check if a Buffer/Uint8Array is a SQLite file",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -27,8 +27,7 @@
   },
   "homepage": "https://github.com/1000ch/is-sqlite#readme",
   "devDependencies": {
-    "mocha": "^2.3.2",
-    "power-assert": "^1.0.0",
+    "ava": "^0.6.0",
     "read-chunk": "^1.0.1"
   }
 }
