@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/1000ch/is-sqlite#readme",
   "devDependencies": {
-    "ava": "*",
-    "read-chunk": "^1.0.1"
+    "ava": "^0.14.0",
+    "read-chunk": "^2.0.0"
   }
 }
